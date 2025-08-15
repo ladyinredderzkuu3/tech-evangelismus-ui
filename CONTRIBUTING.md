@@ -11,3 +11,9 @@ Vielen Dank, dass du zu Tech Evangelismus UI beitragen möchtest! Hier sind eini
 
 ## Verhaltenskodex
 Bitte halte dich an einen respektvollen und konstruktiven Umgangston. Wir schätzen alle Beiträge und möchten eine positive Umgebung schaffen.
+
+## Code-Stilrichtlinien
+Bitte halte dich an die folgenden Code-Stilrichtlinien:
+- Verwende klare und aussagekräftige Variablennamen.
+- Schreibe Kommentare, wenn der Code nicht sofort verständlich ist.
+- Halte dich an die Formatierungsstandards, die in diesem Projekt verwendet werden.
