@@ -7,7 +7,7 @@
     "start": "react-scripts start",  // Start the application in development mode
     "build": "react-scripts build",  // Build the application for production
     "test": "react-scripts test",  // Run tests
-    "eject": "react-scripts eject"  // Eject configuration (not recommended unless needed)
+    "eject": "react-scripts eject"  // Eject configuration (not recommended unless absolutely necessary)
   },
   "dependencies": {
     "react": "^17.0.2",
